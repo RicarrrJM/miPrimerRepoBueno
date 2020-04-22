@@ -1,3 +1,5 @@
 Fichero con contenido
 
 Soy un fichero editado desde git
+
+Fichero editado desde git por segunda vez
