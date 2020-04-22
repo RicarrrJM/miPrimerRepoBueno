@@ -1,3 +1,6 @@
 Fichero con contenido
 
 Soy un fichero editado desde git
+
+Fichero modificado en local
+
