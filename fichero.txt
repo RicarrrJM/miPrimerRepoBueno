@@ -4,3 +4,5 @@ Soy un fichero editado desde git
 
 Fichero modificado en local
 
+Fichero editado desde git por segunda vez
+
