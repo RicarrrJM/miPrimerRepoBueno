@@ -1,1 +1,3 @@
 Fichero con contenido
+
+Soy un fichero editado desde git
